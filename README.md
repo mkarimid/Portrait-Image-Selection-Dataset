@@ -1,4 +1,3 @@
-```markdown
 # Portrait Image Selection Dataset
 
 This repository contains the **Portrait Image Selection Dataset**, which is designed to facilitate research in the area of perceptual deep portrait image selection. The dataset includes a variety of portrait images selected based on both subjective and objective criteria.
@@ -31,4 +30,3 @@ This dataset is provided under the [insert license type, e.g., MIT License, Crea
 For any inquiries or feedback regarding the dataset, please contact:
 
 - **Email**: [your email address]
-```
