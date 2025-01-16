@@ -10,23 +10,20 @@ Karimi, M., & Razzaghi, P. (2024). Perceptual Deep Portrait Image Selection: Sub
 
 ## Dataset Description
 
-- **Content**: The dataset consists of [insert number] portrait images, curated for their quality and relevance to perceptual selection tasks.
-- **Format**: Images are provided in [insert format, e.g., JPEG, PNG].
-- **Size**: The total size of the dataset is approximately [insert size].
+- **Content**: The dataset consists of [200] portrait images and their related subjective labels.
+- **Format**: Images are provided in [JPEG].
+- **Size**: The total size of the dataset is approximately [150 ءإ].
 
 ## Usage
 
 To utilize this dataset, please follow these guidelines:
 
-1. **Download the dataset**: [Insert download link or instructions].
-2. **Attribution**: When using this dataset, provide proper attribution to the authors of the dataset by citing the aforementioned paper.
+1. **Download the dataset**: [https://github.com/mkarimid/Portrait-Image-Selection-Dataset/tree/master].
+2. **Attribution**: When using this dataset, provide proper attribution to the authors of the dataset by citing the paper above.
 
-## License
-
-This dataset is provided under the [insert license type, e.g., MIT License, Creative Commons License]. Please refer to the LICENSE file for more details.
 
 ## Contact
 
 For any inquiries or feedback regarding the dataset, please contact:
 
-- **Email**: [your email address]
+- **Email**: [ma.karimi@sku.ac.ir]
